@@ -25,6 +25,14 @@ The primary goal of this project is to bridge the communication gap between hear
 ---
 
 ## 📂 Dataset
+## Dataset
+
+The complete dataset is available here:
+
+[Download Dataset](https://drive.google.com/drive/folders/1jABhvBkvocypYF0ygTtcGqFC6daxMyHn?usp=drive_link)
+
+Place the extracted folder inside the Dataset directory before running the project.
+
 - Custom dataset created by capturing hand gesture images.
 - Images are organized class-wise in separate folders.
 - Dataset size: ~79 MB.
@@ -62,4 +70,5 @@ The primary goal of this project is to bridge the communication gap between hear
 Electronics & Telecommunication Engineering  
 
 ---
+
 
